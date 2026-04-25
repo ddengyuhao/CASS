@@ -87,7 +87,7 @@ We evaluate EventGraph-LMM on **VideoMME**, **VRBench**, and **CinePile**. Under
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/yourusername/EventGraph.git](https://github.com/yourusername/EventGraph.git)
+git clone [https://github.com/ddengyuhao/CASS.git](https://github.com/ddengyuhao/CASS.git)
 cd CASS
 
 ```
