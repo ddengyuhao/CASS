@@ -46,7 +46,7 @@ Under the same token budget, it yields an average accuracy improvement of up to 
 
 ## 📊 Performance
 
-We evaluate EventGraph-LMM on **VideoMME**, **VRBench**, and **CinePile**. Under a strict budget of **8,192 visual tokens**, our method significantly outperforms existing efficient inference baselines.
+We evaluate CASS on **VideoMME**, **VRBench**, and **CinePile**. Under a strict budget of **8,192 visual tokens**, our method significantly outperforms existing efficient inference baselines.
 
 | Method | Type | LLM Backbone | VideoMME | VRBench | CinePile | Avg. |
 | :--- | :--- | :--- | :---: | :---: | :---: | :---: |
